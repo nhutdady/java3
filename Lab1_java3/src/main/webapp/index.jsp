@@ -7,8 +7,10 @@
 <title>web bans hang</title>
 </head>
 <body>
+
+
 <img alt="" src="meopng.png">
 <hr>
 <jsp:include page="menu.jsp"></jsp:include>
 </body>
-</html>
+</html> 
