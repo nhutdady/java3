@@ -17,7 +17,7 @@ public class Mailer {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
                 // ✅ Gmail thật + App Password (16 ký tự)
-                return new PasswordAuthentication("youremail@gmail.com", "your-app-password");
+                return new PasswordAuthentication("minhnhut261006@gmail.com", "bucd oldn ivnw cqcz");
             }
         });
 
