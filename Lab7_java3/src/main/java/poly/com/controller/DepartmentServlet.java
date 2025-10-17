@@ -16,7 +16,8 @@ import poly.com.entity.Department;
     "/department/create",
     "/department/update",
     "/department/delete",
-    "/department/reset"
+    "/department/reset",
+    ""
 })
 public class DepartmentServlet extends HttpServlet {
     @Override
